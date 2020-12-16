@@ -1,4 +1,4 @@
-FROM gitpod/workspace-postgres
+FROM gitpod/workspace-postgres:branch-jx-save-space
 
 # Install Ruby
 ENV RUBY_VERSION=2.7.2
